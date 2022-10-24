@@ -1,0 +1,31 @@
+main {
+    background-color: #c0c0c0;
+    height: 500px;
+    width: 600px;
+
+
+}
+
+#virsus {
+    padding: 25px;
+}
+
+#virsus>h1 {
+    background-color: #dfdfdf;
+    color: #646464;
+    width: 550px;
+    height: 80px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#apacia {
+    margin-left: 25px;
+    width: 550px;
+    background-image: -webkit-linear-gradient(top, rgb(0, 136, 221), rgb(238, 62, 128));
+    border
+}
+
+.astuoni {
+    background-color: #3c854e;
+}
